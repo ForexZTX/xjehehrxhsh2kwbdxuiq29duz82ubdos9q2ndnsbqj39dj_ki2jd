@@ -1,24 +1,10 @@
-[
-    {
-        "id": 7836641488,
-        "fullname": "’",
-        "username": "@xGalip",
-        "key": "016d285db497ad371db6b7f0de41ee4bdb71da24d1e542b9d129f89eb94cea01",
-        "created": 1763339694,
-        "expire": 1763341194,
-        "duration": "25m",
-        "status": "active",
-        "moved_at": 1763339712
-    },
-    {
-        "id": 7836641488,
-        "fullname": "’",
-        "username": "@xGalip",
-        "key": "d86cfbafedb47b626b8c7a8a14d7f9d0657ac9364f3888f43f6b4e6b16642764",
-        "created": 1763339712,
-        "expire": 1763341212,
-        "duration": "25m",
-        "status": "deactive",
-        "cancelled_at": 1763339756
+{
+    "7836641488": {
+        "key": "K_1763340372",
+        "sure": "486d",
+        "expire": 1805330772,
+        "aktif": false,
+        "olusturan": 7836641488,
+        "tarih": "2025-11-17 03:46"
     }
-]
+}
