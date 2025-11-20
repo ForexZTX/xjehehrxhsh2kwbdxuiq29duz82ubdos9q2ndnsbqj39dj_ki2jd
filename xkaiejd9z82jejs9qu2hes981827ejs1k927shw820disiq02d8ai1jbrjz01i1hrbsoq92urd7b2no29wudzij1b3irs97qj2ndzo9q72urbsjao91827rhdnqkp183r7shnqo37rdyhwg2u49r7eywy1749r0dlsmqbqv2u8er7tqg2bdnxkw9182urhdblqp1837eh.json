@@ -30,5 +30,13 @@
         "aktif": false,
         "olusturan": 7836641488,
         "tarih": "2025-11-18 23:47"
+    },
+    "1453": {
+        "key": "TZFHH1LX",
+        "sure": "10d",
+        "expire": 1764520386,
+        "aktif": true,
+        "olusturan": 7836641488,
+        "tarih": "2025-11-20 19:33"
     }
 }
